@@ -84,9 +84,9 @@ WSGI_APPLICATION = 'pythonex.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'wishes_python',
+        'NAME': 'demo_db',
         'USER': 'brenda',
-        'PASSWORD': 'password',
+        'PASSWORD': 'coolguys',
         'HOST': 'localhost',
         'PORT': '',
     }
